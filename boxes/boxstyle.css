@@ -1,0 +1,29 @@
+.box {
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	position: relative;
+	display: inline-block;
+	*display: inline;
+	zoom: 1;
+	border: 3px solid black;
+}
+
+.little_box {
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	top: 5px;
+	left: 368px;
+	z-index: +1;
+	border: 3px solid black;
+	background-color: yellow;
+}
+
+.blue_box {
+	background-color: blue;
+}
+
+.red_box {
+	background-color: red;
+}

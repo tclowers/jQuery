@@ -1,0 +1,25 @@
+p {
+	color: white;
+	text-align: center;
+}
+
+button {
+	background-color: lightgreen;
+}
+
+h3 {
+	color: lightgrey;
+	text-align: center;
+}
+
+.vacation {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	background-color: grey;
+	display: inline-block;
+	vertical-align: top;
+	padding: 10px;
+	margin: 10px;
+	top: 0px;
+}

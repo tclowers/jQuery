@@ -1,0 +1,21 @@
+p {
+	color: white;
+	text-align: center;
+}
+
+button {
+	background-color: lightgreen;
+}
+
+h3 {
+	color: lightgrey;
+	text-align: center;
+}
+
+.flight {
+	position: relative;
+	background-color: grey;
+	display: inline-block;
+	padding: 5px;
+	margin: 10px;
+}

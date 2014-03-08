@@ -1,0 +1,47 @@
+p {
+	color: white;
+	text-align: center;
+	width: 100%;
+}
+
+li {
+	text-align: center;
+}
+
+button {
+	background-color: lightgreen;
+	display: block;
+	margin:0 auto;
+}
+
+h3 {
+	color: lightgrey;
+	text-align: center;
+}
+
+img {
+	width: 220px;
+	height: 200px;
+}
+
+.city {
+	position: relative;
+	/*height: 200px;*/
+	width: 260px;
+	background-color: grey;
+	display: inline-block;
+	vertical-align: top;
+	padding: 10px;
+	margin: 10px;
+	top: 0px;
+}
+
+.not-interested {
+	visibility: hidden;
+	position: absolute;
+	/*float: right;*/
+	left: 100px;
+	top: 180px;
+	text-decoration: none;
+
+}

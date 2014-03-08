@@ -1,0 +1,24 @@
+.message {
+	position: relative;
+	height: 30px;
+	width: 500px;
+	vertical-align: center;
+	display: none;
+}
+
+#enterprise {
+	position: relative;
+	float: left;
+}
+
+#romulan {
+	position: relative;
+	float: right;
+	width: 500px;
+}
+
+.ship-image {
+	display: none;
+	height: 400px;
+	width: 500px;
+}
